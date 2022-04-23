@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![me](https://user-images.githubusercontent.com/85541756/164874561-8db7a6b5-8320-477b-918a-f3c946052524.png)
+![portada space](https://user-images.githubusercontent.com/85541756/164874697-6f2530c3-574a-483c-b231-24c9b68c6176.png)
 
 <!--
 **mariodev9/mariodev9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
