@@ -1,9 +1,17 @@
-### Hi there 👋
+### Hi there 👋 I'm Mario
 
 ![portada space](https://user-images.githubusercontent.com/85541756/164874697-6f2530c3-574a-483c-b231-24c9b68c6176.png)
 
+## About me in code
+
+```javascript
+const mario = {
+    pronouns: "He" | "Him",
+    code: [HTML, CSS, Javascript],
+    tools: [React, Styled-Components, Bootstrap, Git],
+}
+```
 <!--
-**mariodev9/mariodev9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
