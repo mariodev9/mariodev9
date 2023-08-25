@@ -6,7 +6,7 @@
 
 ##
 
-- 🌱 I’m currently learning **Next js**
+- 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **javascript, react js and a bit of design😆**
 
