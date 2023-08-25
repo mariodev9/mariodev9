@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **javascript, react js and a bit of design😆**
+- 💬 Ask me about **javascript, next.js and a bit of design😆**
 
 - 📫 Mail: **luciano.mariotti99@gmail.com**
 
